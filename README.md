@@ -29,4 +29,4 @@ This project models an advanced Industry 4.0 IoT Gateway system using an ESP32 m
 
 ## Open-Source System Links
 * **Live Virtual ESP32 Hardware Simulator:** [https://wokwi.com/projects/475945837938861057]
-* **Cloud Network Parsing Dashboard:** [https://colab.research.google.com/drive/1qk3cqSoPjjIjo0gEkQojW9_nYZlspoxv?usp=sharing]
+* **Cloud Network Parsing Dashboard:** [https://colab.research.google.com/drive/1FcK2OKp9n9S4FbvYQw-NIEY_kfFjf1GQ?usp=sharing]
